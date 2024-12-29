@@ -1,6 +1,6 @@
 ## TickTick Automation
 
-This is a simple automation I made for myself. I use [TickTick](https://ticktick.com/webapp/) as my To-Do list of choice and I wanted to  sync events between my personal Google Calender, school Outlook calender, and TickTick. While you can acheive this without any code if you buy their premium subscription (which I recommend you do as it is a great app), I wanted to put my AWS free tier, Python scripting, and Infrastructure as Code (Terraform in this case) skills to the test. 
+This is a simple automation I made for myself. I use [TickTick](https://ticktick.com/webapp/) as my To-Do list of choice and I wanted to  sync events between my personal Google Calender, school Outlook calender, and TickTick. While you can acheive this without any code if you buy their premium subscription (which I recommend you do as it is a great app), I wanted to put my AWS free tier, Python scripting, and Infrastructure as Code (Terraform in this case) skills to the test. **This should cost 0$ of AWS bill**
 
 ### How it works
 
